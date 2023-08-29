@@ -1,1 +1,1 @@
-Directory
+The coding journey in ALX
